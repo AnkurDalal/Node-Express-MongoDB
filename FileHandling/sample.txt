@@ -1,0 +1,1 @@
+hello this is sample file and used for reading data using node js
